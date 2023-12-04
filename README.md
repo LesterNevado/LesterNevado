@@ -1,6 +1,6 @@
 # Hello, I'm Lester Nevado! 👋
 
-I am passionate about coding and have strong database management skills. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
+I am passionate about coding and have strong database management skills. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began when I enrolled in the BS Computer Science program.
 
 ## Education 📚
 - **BS Computer Science**
