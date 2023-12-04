@@ -26,5 +26,5 @@ I am passionate about coding and have strong database management skills. I enjoy
   - HTML
 
 ## Contact Me 📬
-- [LinkedIn](LinkedIn-profile-link)
+- LinkedIn: [LinkedIn](LinkedIn-profile-link)
 - Email: lester.nevado2@gmail.com
